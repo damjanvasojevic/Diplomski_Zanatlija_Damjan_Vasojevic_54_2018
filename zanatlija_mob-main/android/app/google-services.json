@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "737907302079",
+    "project_id": "zanatlija-6431f",
+    "storage_bucket": "zanatlija-6431f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737907302079:android:97a20ad7ab1e4fda0e700a",
+        "android_client_info": {
+          "package_name": "com.zanatlija"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClEwWIs01DXcSywtFRM-Zk4WePTbFD6ws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
